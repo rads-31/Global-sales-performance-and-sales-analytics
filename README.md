@@ -22,4 +22,5 @@ The dashboard was built using
        4.
 
 5.Screenshots:
+   The dashboard looks like - https://github.com/rads-31/Global-sales-performance-and-sales-analytics/blob/main/Executive%20overview%20dashboard.png
    
