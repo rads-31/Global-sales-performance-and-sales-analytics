@@ -1,6 +1,6 @@
 1.Project Title:
----To design and develope a robust,interactive sales and returns analytics dashboard that enables business leaders to track global sales performance,
-   identify areas of inefficiencies and make data-driven decisions across regions,segments and product categories.
+To design and develope a robust,interactive sales and returns analytics dashboard that enables business leaders to track global sales performance,
+identify areas of inefficiencies and make data-driven decisions across regions,segments and product categories.
 
 2.Tech stack:
 The dashboard was built usingthe following tools and technologies:
