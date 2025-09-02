@@ -4,6 +4,7 @@
 
 2.Tech stack
 The dashboard was built usingthe following tools and technologies:
+
     A)Power BI Desktop - Data visualization platform used for report creation.
     B)Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
     C)DAX(Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
@@ -13,7 +14,8 @@ The dashboard was built usingthe following tools and technologies:
 3.Data source : SQL server database
 
 4.Features/Highlights :
-     A.Business Problems:Qs
+
+     A.Business Problems:
        1.What are the total sales,profit and quantity sold by region,market and product category?
        2.Which customers or regions are contributing most to returns?
        3.Which products have the highest sales and which are underperforming?
