@@ -2,7 +2,7 @@
 ---To design and develope a robust,interactive sales and returns analytics dashboard that enables business leaders to track global sales performance,
    identify areas of inefficiencies and make data-driven decisions across regions,segments and product categories.
 
-2.Tech stack
+2.Tech stack:
 The dashboard was built usingthe following tools and technologies:
 
     A)Power BI Desktop - Data visualization platform used for report creation.
